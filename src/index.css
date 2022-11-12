@@ -97,3 +97,41 @@ p, h1, h2, h3, h4, h5, h6 {
   color: #FFFFFF;
   border: 0px;
 }
+
+.middle-content {
+  width: 317px;
+  background: #F5F5F5;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+.subtitle {
+  color: #2B283A;
+  font-size: 1.3em;
+}
+
+.text {
+  color: #4A4E74;
+  font-size: 0.7em;
+}
+
+.interest {
+  padding-bottom: 31px;
+}
+
+.footer {
+  width: 317px;
+  height: 64px;
+  background: #D5D4D8;
+  display: flex;
+  border-radius: 0px 0px 10px 10px;
+  justify-content: center;
+  gap: 24px;
+  align-items: center;
+}
+
+.footer > img {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
